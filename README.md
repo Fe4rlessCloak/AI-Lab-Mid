@@ -14,3 +14,5 @@ The goal is to create a computer player that **never loses**, regardless of the 
   - ✅ Win
   - 🤝 Or force a draw  
   - ❌ Never lose
+
+  - Maximize marks obtained in lab mid !
